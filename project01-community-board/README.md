@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/jZf8gKg' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+<img src='https://github.com/weiraven/codepath-projects/blob/main/project01-community-board/public/images/demo.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
