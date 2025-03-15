@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/weiraven/codepath-projects/blob/main/project03-flashcards2/public/images/demo.gif' title='Video Walkthrough' width='800' alt='Video Walkthrough' />
+<img src='https://github.com/weiraven/codepath-projects/blob/main/project03-flashcards2/public/images/demo.gif' title='Video Walkthrough' width='1000' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 ## Notes
